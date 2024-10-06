@@ -1,10 +1,12 @@
 p {
     background-color: blue;
-    color: white;
+    color: #fff;
 }
 
 h1 {
     font-size: 3rem;
+    text-align: center;
+    text-decoration: none;
 }
 
  header {
